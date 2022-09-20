@@ -11,4 +11,4 @@ proyecto
 # Gerardo Montalvan24196
 # Marjorie 
 # Susana Abigail Aguirre Castaneda 24230
-# Rodrigo Fernado Palma Ibáñez 24194
+# Rodrigo Fernado Palma Ibáñez 24194 El guapo
