@@ -17,11 +17,8 @@ proyecto
 # Susana Abigail Aguirre Castaneda 24230
 <<<<<<< HEAD
 <<<<<<< HEAD
-# Rodrigo Palma 
-
-
 # José Andrés Melara Gómez 24104
 Primer commit Melara 
 =======
 # Rodrigo Fernado Palma Ibáñez 24194 El guapo
->>>>>>> c4e02428d9a84e1e5e7669a148d6d051d7bece0b
+
