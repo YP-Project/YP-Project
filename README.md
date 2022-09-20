@@ -18,10 +18,8 @@ proyecto
 <<<<<<< HEAD
 <<<<<<< HEAD
 # Rodrigo Palma 
-Primer commit Rodrigo
-=======
-# Rodrigo Fernado Palma Ibáñez 24194
->>>>>>> e01c2a88b7d101b9b2d2ea41507eb5433073ed7a
+
+
 # José Andrés Melara Gómez 24104
 Primer commit Melara 
 =======
