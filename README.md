@@ -19,6 +19,7 @@ proyecto
 <<<<<<< HEAD
 # José Andrés Melara Gómez 24104
 Primer commit Melara 
+Prueba otro Commit Melara
 =======
 # Rodrigo Fernado Palma Ibáñez 24194 El guapo
 # Jonathan Soto 24211 La internacional
