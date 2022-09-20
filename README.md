@@ -2,7 +2,6 @@
 Software academico para TEA
 proyecto 
 
-#commit Rodrigo
 #Primer commit wilmar 
 # Intregrantes 
 # Daniel Humberto Duran Lara 24213
