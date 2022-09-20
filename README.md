@@ -17,3 +17,4 @@ proyecto
 # Susana Abigail Aguirre Castaneda 24230
 # Rodrigo Palma 
 Primer commit Rodrigo
+Primer commit Melara 
