@@ -8,7 +8,6 @@ proyecto
 # Wilmar Alexander Mendez Tadeo 24221
 # Rodrigo Eduardo Mendoza Martínez 24178
 <<<<<<< HEAD
-# José Andrés Melara Gómez 24104
 <<<<<<< HEAD
 =======
 >>>>>>> e01c2a88b7d101b9b2d2ea41507eb5433073ed7a
@@ -19,7 +18,8 @@ proyecto
 <<<<<<< HEAD
 # Rodrigo Palma 
 Primer commit Rodrigo
-Primer commit Melara 
 =======
 # Rodrigo Fernado Palma Ibáñez 24194
 >>>>>>> e01c2a88b7d101b9b2d2ea41507eb5433073ed7a
+# José Andrés Melara Gómez 24104
+Primer commit Melara 
