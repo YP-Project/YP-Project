@@ -21,4 +21,5 @@ proyecto
 Primer commit Melara 
 =======
 # Rodrigo Fernado Palma Ibáñez 24194 El guapo
+# Jonathan Soto 24211 La internacional
 
