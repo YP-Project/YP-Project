@@ -12,4 +12,5 @@ proyecto
 # Gerardo Montalvan24196
 # Marjorie 
 # Susana Abigail Aguirre Castaneda 24230
-# Rodrigo Palma
+# Rodrigo Fernado Palma Ibáñez 24194
+Primer commit Rodrigo
