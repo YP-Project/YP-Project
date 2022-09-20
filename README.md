@@ -14,5 +14,5 @@ proyecto
 =======
 # Marjorie 
 # Susana Abigail Aguirre Castaneda 24230
-# Rodrigo Palma 
+# Rodrigo Palma 24194
 Primer commit Rodrigo
