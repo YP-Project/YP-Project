@@ -9,3 +9,4 @@ proyecto
 # Wilmar Alexander Mendez Tadeo 24221
 # Rodrigo 
 # Marjorie 
+# Susana Abigail Aguirre Castaneda 24230 
