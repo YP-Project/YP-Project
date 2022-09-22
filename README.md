@@ -7,7 +7,7 @@ Wilmar Alexander Mendez Tadeo 24221
 
 Rodrigo Eduardo Mendoza Martínez 24178
 
-Marjorie Cecilia Ventura Panameño 24216
+Marjorie Cecilia Ventura Panameño 24216.
 
 Jose Gerardo Montalvan Fiallos 24196
 
