@@ -17,7 +17,7 @@ def menuPrincipal():
             print("___________________________________")
             acción = int(input("Seleccióne una acción: "))
             
-            if acción < 1 or acción>5:
+            if acción < 1 or acción > 5:
                 print ("Por favor seleccione una acción válida")
             elif acción==5:
                 print ("¡Muchas gracias por usar nuestro programa, hasta la próxima!")
@@ -40,9 +40,9 @@ def ejecutarOpcion(opcion):
         except:
             print ("Ocurrió un error")
     elif opcion ==2 :
-        curso = funciones.pedirdatosReg()
+        curso = funciones.pedirdatosReg2()
         try:
-            dao.registrarCurso(curso)
+            dao.registrarCurso2(curso)
         except:
             print ("Ocurrió un error")
     elif opcion ==3 :
