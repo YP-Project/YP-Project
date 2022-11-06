@@ -33,10 +33,10 @@ Para este proyecto estaremos creando lo que se conoce como CRUD, el cual, nos pe
 5.	Registrar las activades de campo hechas en el Laboratorio de la materia de Producción Vegetal.
 
 # Métodos 
-En este proyecto se incluye el uso de herramientas de desarrollo Python y el editor de código Visual Studio Code. A su vez, usaremos GitHub para subir y documentar nuestro proyecto y ponerlo a disposición del público. Utilizaremos MySQL para brindar una mejor visualización del ingreso, manipulación y acceso a nuestra base de datos.  
+En este proyecto se incluye el uso de herramientas de desarrollo Python y el editor de código Visual Studio Code. A su vez, usaremos GitHub para subir y documentar nuestro proyecto y ponerlo a disposición del público. Utilizaremos MySQL para brindar una mejor visualización del ingreso, manipulación y acceso a nuestra base de datos, además de la utilización de jupyter junto con pandas y matplotlib para el análisis de los datos poder graficarlos. 
 
 # Fuente de datos 
-En este proyecto utilizaremos archivos aleatoriamente generados en Excel, los cuales contarán con las variables anteriormente descritas. Dichos archivos estarán en formato CSV. 
+En este Proyecto se trabajará con una base de datos desarrollada por el código, el cual se guardará en MySQL, se procederá a pasar esos datos a un archivo CSV que posteriormente se utilizara en jupyter para hacer las gráficas que nos servirán para analizar las notas de los estudiantes.
 
 # Referencias 
 1.	https://www.mysql.com
