@@ -43,3 +43,4 @@ En este Proyecto se trabajará con una base de datos desarrollada por el código
 2.	https://www.python.org
 3.	https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/crud-las-principales-operaciones-de-bases-de-datos/
 4.	https://www.hostinger.es/tutoriales/que-es-mysql
+5.	https://jupyter.org/try-jupyter/lab/
