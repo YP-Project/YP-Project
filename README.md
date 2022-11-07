@@ -2,12 +2,19 @@
 
 # Intregrantes 
 Daniel Humberto Duran Lara 24213
+
 Jonathan Alexis Soto Herrera 24211
+
 Jose Gerardo Montalvan Fiallos 24196
+
 Wilmar Alexander Mendez Tadeo 24221
+
 Susana Abigail Aguirre Castaneda 24230
+
 Rodrigo Fernado Palma Ibáñez 24194
-Marjorie Cecilia Ventura Panameño 24216.
+
+Marjorie Cecilia Ventura Panameño 24216
+
 Rodrigo Eduardo Mendoza Martínez 24178
 
 **problema** 
@@ -37,6 +44,7 @@ matplotlib para el análisis de los datos poder graficarlos.
 [![Python-svg.png](https://i.postimg.cc/m2kXvnY1/Python-svg.png)](https://postimg.cc/56cSvnkf)
 [![images-2.jpg](https://i.postimg.cc/YCW7QRCZ/images-2.jpg)](https://postimg.cc/4YsjgztQ)
 [![logo-mysql-1.png](https://i.postimg.cc/ZqnMrKHR/logo-mysql-1.png)](https://postimg.cc/XZMLWWTS)
+[![Php-My-Admin-logo.png](https://i.postimg.cc/Qt5SbBTX/Php-My-Admin-logo.png)](https://postimg.cc/ZBbrY5Hg)
 
 **Fuente de datos**
 
