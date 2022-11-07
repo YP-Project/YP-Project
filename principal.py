@@ -1,3 +1,4 @@
+
 from tkinter import Menu
 from BD.conexion import DAO
 import funciones
@@ -15,43 +16,44 @@ def menuPrincipal():
             print("4. Eliminar estudiante")
             print("5. Salir")
             print("___________________________________")
-            acción = int(input("Seleccióne una acción: "))
-            
-            if acción < 1 or acción > 5:
+            opcion = int(input("Seleccióne una acción: "))
+        
+            if opcion < 1 or opcion > 5:
                 print ("Por favor seleccione una acción válida")
-            elif acción==5:
+            
+            elif opcion==5:
                 print ("¡Muchas gracias por usar nuestro programa, hasta la próxima!")
                 continuar = False
                 break
             else:
                 opcioncorrecta = True
-                ejecutarOpcion(acción)
+                ejecutarOpcion(opcion)
 
 def ejecutarOpcion(opcion):
     dao=DAO()
     
     if opcion==1:
         try:
-            cursos=dao.listarCursos()
+            cursos=dao.listarEstudiantes()
             if len (cursos)>0:
-                funciones.listarCursos(cursos)
+                funciones.listarEstudiantes(cursos)
             else:
                 print ("No se encontraron estudiantes")        
         except:
             print ("Ocurrió un error")
     elif opcion ==2 :
-        curso = funciones.pedirdatosReg2()
+        curso = funciones.pedirdatosReg()
         try:
-            dao.registrarCurso2(curso)
+            dao.registrarEstudiantes(curso)
         except:
             print ("Ocurrió un error")
     elif opcion ==3 :
         try:
-            cursos = dao.listarCursos()
+            cursos = dao.listarEstudiantes()
             if len (cursos)>0:
                 curso = funciones.pedirDatosActualizacion(cursos)
                 if curso:
-                    dao.actualizarCurso(curso)
+                    dao.actualizarEstudiantes(curso)
                 else:
                     print ("Código de estudiante a actualizar no encontrado\n")
             else:
@@ -60,11 +62,11 @@ def ejecutarOpcion(opcion):
             print ("Ocurrió un error") 
     elif opcion==4 :
         try:
-            cursos = dao.listarCursos()
+            cursos = dao.listarEstudiantes()
             if len (cursos)>0:
                 codigoEliminar = funciones.pedirDatosEliminacion(cursos)
                 if not (codigoEliminar == ""):
-                    dao.eliminarCurso(codigoEliminar)
+                    dao.eliminarEstuadiantes(codigoEliminar)
                 else:
                     print ("Código de curso no encontrado...")
             else:
@@ -72,5 +74,5 @@ def ejecutarOpcion(opcion):
         except:
             print ("Ocurrió un error")    
     else:
-        print("No perroooooo")
+        print("Por favor seleccione una acción válida")
 menuPrincipal()
