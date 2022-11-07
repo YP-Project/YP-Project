@@ -45,6 +45,8 @@ matplotlib para el análisis de los datos poder graficarlos.
 [![images-2.jpg](https://i.postimg.cc/YCW7QRCZ/images-2.jpg)](https://postimg.cc/4YsjgztQ)
 [![logo-mysql-1.png](https://i.postimg.cc/ZqnMrKHR/logo-mysql-1.png)](https://postimg.cc/XZMLWWTS)
 [![Php-My-Admin-logo.png](https://i.postimg.cc/Qt5SbBTX/Php-My-Admin-logo.png)](https://postimg.cc/ZBbrY5Hg)
+[![descarga.png](https://i.postimg.cc/c41MKkX1/descarga.png)](https://postimg.cc/9zSqKp6s)
+[![Git-Hub-Emblem.png](https://i.postimg.cc/MHpMGNxh/Git-Hub-Emblem.png)](https://postimg.cc/8JxPKy7H)
 
 **Fuente de datos**
 
