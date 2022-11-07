@@ -27,9 +27,16 @@ Para este proyecto estaremos creando lo que se conoce como CRUD, el cual, nos pe
 
 **Métodos** 
 
-En este proyecto se incluye el uso de herramientas de desarrollo Python y el editor de código Visual Studio Code. A su vez, usaremos GitHub para subir y documentar nuestro proyecto y ponerlo a disposición del público. Utilizaremos MySQL para brindar una mejor visualización del ingreso, manipulación y acceso a nuestra base de datos, además de la utilización de jupyter junto con pandas y matplotlib para el análisis de los datos poder graficarlos. 
+En este proyecto se incluye el uso de herramientas de desarrollo Python y el editor 
+de código Visual Studio Code. A su vez, usaremos GitHub para subir y 
+documentar nuestro proyecto y ponerlo a disposición del público. Utilizaremos 
+MySQL para brindar una mejor visualización del ingreso, manipulación y acceso 
+a nuestra base de datos, además de la utilización de jupyter junto con pandas y 
+matplotlib para el análisis de los datos poder graficarlos. 
+
 [![Python-svg.png](https://i.postimg.cc/m2kXvnY1/Python-svg.png)](https://postimg.cc/56cSvnkf)
 [![images-2.jpg](https://i.postimg.cc/YCW7QRCZ/images-2.jpg)](https://postimg.cc/4YsjgztQ)
+[![logo-mysql-1.png](https://i.postimg.cc/ZqnMrKHR/logo-mysql-1.png)](https://postimg.cc/XZMLWWTS)
 
 **Fuente de datos**
 
